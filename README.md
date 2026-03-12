@@ -1,20 +1,26 @@
+<!-- Animated Gradient Header -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Vijay%20Diwaniya&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vijay Diwaniya</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Developer;Learning+Backend+Development;Future+Full+Stack+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Frontend+Developer;Learning+Backend+Development;Future+Full+Stack+Developer;Building+Modern+Web+Applications"/>
 </p>
 
 ---
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-Hello! I'm **Vijay Diwaniya**, a passionate **Computer Engineering Student** who loves building modern web applications.
+Hello! I'm **Vijay Diwaniya**, a passionate **Computer Engineering Student** who enjoys building modern web applications and learning new technologies.
 
-I have completed **Frontend Development** and currently I am learning **Backend Development** to become a **Full Stack Developer**.
+I have completed **Frontend Development** and currently focusing on **Backend Development** to become a **Full Stack Developer**.
 
-I enjoy creating **clone projects and real-world web applications** to improve my development skills and understand how modern web platforms work.
+I enjoy building **clone projects and real-world applications** to improve my development skills and understand how large scale web platforms work.
 
 My focus is on building **fast, responsive and scalable web applications** using modern technologies.
 
@@ -79,3 +85,9 @@ vijay.diwaniya.cg@gmail.com
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
+<!-- Footer Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+</p>
