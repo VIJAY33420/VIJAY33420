@@ -1,13 +1,11 @@
-<!-- Animated Gradient Header -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Vijay%20Diwaniya&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A0DAD&height=220&section=header&text=Vijay%20Diwaniya&fontSize=45&fontAlignY=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Vijay Diwaniya</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Frontend+Developer;Learning+Backend+Development;Future+Full+Stack+Developer;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=8A2BE2&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Frontend+Developer;Learning+Backend+Development;Future+Full+Stack+Developer;Building+Modern+Web+Applications"/>
 </p>
 
 ---
@@ -34,43 +32,31 @@ My focus is on building **fast, responsive and scalable web applications** using
 ![HTML](https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb)
 
 ---
 
 ### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8A2BE2?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-6A0DAD?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-8A2BE2?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
 ### 🛠 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8A2BE2?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-6A0DAD?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-8A2BE2?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![Vijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIJAY33420&show_icons=true&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=VIJAY33420&theme=tokyonight)
+![Figma](https://img.shields.io/badge/Figma-6A0DAD?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -84,10 +70,16 @@ vijay.diwaniya.cg@gmail.com
 
 ---
 
-⭐ **Thanks for visiting my profile!**
-
-<!-- Footer Banner -->
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=120&section=footer"/>
+  <img src="https://github.com/VIJAY33420/VIJAY33420/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:8A2BE2&height=120&section=footer"/>
 </p>
