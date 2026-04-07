@@ -8,6 +8,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3200&pause=900&color=8A2BE2&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Frontend+Developer;Learning+Backend+Development;Future+Full+Stack+Developer;Building+Modern+Web+Applications"/>
 </p>
 
+<!-- 🌌 Galaxy Background -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="100%" />
+</p>
+
 ---
 
 <img align="right" alt="coding" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -67,14 +72,6 @@ https://www.linkedin.com/in/vijay-diwaniya-7b36aa3a4/
 
 📧 Email  
 vijay.diwaniya.cg@gmail.com
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/VIJAY33420/VIJAY33420/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
 
 ---
 
