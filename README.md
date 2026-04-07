@@ -60,18 +60,21 @@ My focus is on building **fast, responsive and scalable web applications** using
 
 ---
 
-# 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=VIJAY33420&theme=tokyonight)
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vijay-diwaniya-7b36aa3a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:vijay.diwaniya.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-# 🌐 Connect With Me
-
-💼 LinkedIn  
-https://www.linkedin.com/in/vijay-diwaniya-7b36aa3a4/
-
-📧 Email  
-vijay.diwaniya.cg@gmail.com
+# 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=VIJAY33420&theme=tokyonight)
 
 ---
 
