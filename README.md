@@ -62,12 +62,49 @@ My focus is on creating **fast, responsive, and scalable web applications**.
 
 ---
 
-# 🚀 Tech Stack
-(keep same)
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-ff5722?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
+</p>
 
 ---
 
-# 🔥 GitHub Streak
+### ⚙️ Backend
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
+---
+
+### 🛠 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00c7b7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VIJAY33420&theme=tokyonight"/>
