@@ -14,9 +14,11 @@
 
 ---
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
 ## 👨‍💻 About Me
+
+<p align="center">
+  <img alt="coding" width="320" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</p>
 
 Hello! I'm **Vijay Diwaniya**, a passionate **Computer Engineering Student** who enjoys building modern web applications and learning new technologies.
 
@@ -87,7 +89,10 @@ My focus is on creating **fast, responsive, and scalable web applications** usin
 ---
 
 # 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=VIJAY33420&theme=tokyonight)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=VIJAY33420&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
